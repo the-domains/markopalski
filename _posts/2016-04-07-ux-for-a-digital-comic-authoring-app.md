@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: UX for a Digital Comic Authoring App
-datePublished: '2016-04-07T05:02:40.275Z'
-dateModified: '2016-04-07T05:02:26.958Z'
+datePublished: '2016-04-07T05:18:42.904Z'
+dateModified: '2016-04-07T05:17:50.537Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-07-ux-for-a-digital-comic-authoring-app.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-ux-for-a-digital-comic-authoring-app.md
-published: true
 url: ux-for-a-digital-comic-authoring-app/index.html
 _type: Article
 
