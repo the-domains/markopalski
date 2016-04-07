@@ -1,4 +1,4 @@
-name: markopalski
+name: Mark Opalski UX
 favicon: null
 layout_spectrum: 0.65625
 typography_spectrum: 0.31334
@@ -23,7 +23,7 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
   brandStrength: 0.054060172755271196
-  lightness: 0.6870342227630317
+  lightness: 0.375
   saturation: 0.11127063049934804
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.25
 purpose: []
