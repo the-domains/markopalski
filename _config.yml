@@ -1,7 +1,7 @@
 name: markopalski
 favicon: null
-layout_spectrum: 0.10298496810719371
-typography_spectrum: 0.8224684323649853
+layout_spectrum: 0.65625
+typography_spectrum: 0.31334
 title: Selected works
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.054060172755271196
   lightness: 0.6870342227630317
   saturation: 0.11127063049934804
-  rhythmicContrast: 0.33464919426478446
+  rhythmicContrast: 0.75
 purpose: []
