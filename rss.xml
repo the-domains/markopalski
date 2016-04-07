@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Selected works]]></title>
-        <description><![CDATA[Selected works]]></description>
+        <title><![CDATA[Specializing in the Design of User Experience and Interaction Design. ]]></title>
+        <description><![CDATA[Specializing in the Design of User Experience and Interaction Design. ]]></description>
         <link>https://thegrid.ai/markopalski/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 05:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 05:28:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/markopalski/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Collectors UX ]]></title>
+            <description><![CDATA[<article><h1>Collectors UX </h1><p>My Library feature was enhanced to give customers the ability to manage their comic collections.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/36cc63fa36b68caa213b3cb093290c6ee15af874.png"></article>]]></description>
+            <link>https://thegrid.ai/markopalski/collectors-ux/index.html</link>
+            <guid isPermaLink="false">ecd96b9f-11bc-42d5-80d3-82e29149d8c7</guid>
+            <pubDate>Thu, 07 Apr 2016 05:27:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Workspace]]></title>
             <description><![CDATA[<article><h1>Workspace</h1><p>UX for a Digital Comic Authoring App</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68021bd91bbe3def119e4338a3116be0b360f081.png"></article>]]></description>
