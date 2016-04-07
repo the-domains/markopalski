@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: My Library feature was enhanced to give customers the ability to manage their comic collections.
-datePublished: '2016-04-07T05:27:48.190Z'
-dateModified: '2016-04-07T05:27:24.726Z'
+datePublished: '2016-04-07T06:10:38.662Z'
+dateModified: '2016-04-07T05:39:50.837Z'
 title: 'Collectors UX '
 author: []
+sourcePath: _posts/2016-04-07-collectors-ux.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-07-collectors-ux.md
-published: true
 url: collectors-ux/index.html
 _type: Article
 
