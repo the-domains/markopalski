@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[markopalski]]></title>
-        <description><![CDATA[markopalski]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Selected works]]></title>
+        <description><![CDATA[Selected works]]></description>
+        <link>https://thegrid.ai/markopalski/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 05:03:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 05:18:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/markopalski/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Workspace]]></title>
             <description><![CDATA[<article><h1>Workspace</h1><p>UX for a Digital Comic Authoring App</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68021bd91bbe3def119e4338a3116be0b360f081.png"></article>]]></description>
-            <link>undefinedux-for-a-digital-comic-authoring-app/index.html</link>
+            <link>https://thegrid.ai/markopalski/ux-for-a-digital-comic-authoring-app/index.html</link>
             <guid isPermaLink="false">ee69f28f-ee98-4018-8936-1cd4b77e5efb</guid>
-            <pubDate>Thu, 07 Apr 2016 05:02:40 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 05:18:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
